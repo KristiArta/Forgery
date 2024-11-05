@@ -1,0 +1,351 @@
+[
+    {
+        "id": "1",
+        "proxy": {
+            "server": "83.171.215.100:30042",
+            "username": "azazazxxxl73_gmail_com",
+            "password": "37e629173c"
+        },
+        "phone": "79967241842",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "2",
+        "proxy": {
+            "server": "45.147.169.11:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012068546",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "3",
+        "proxy": {
+            "server": "45.147.171.60:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012068603",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "4",
+        "proxy": {
+            "server": "45.147.170.185:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79510317952",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "5",
+        "proxy": {
+            "server": "213.166.64.114:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012065263",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "6",
+        "proxy": {
+            "server": "37.221.83.132:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79010869826",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "7",
+        "proxy": {
+            "server": "213.166.64.9:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79510330985",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "8",
+        "proxy": {
+            "server": "45.140.75.61:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79010803764",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "9",
+        "proxy": {
+            "server": "212.162.133.149:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012065543",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "10",
+        "proxy": {
+            "server": "45.140.72.251:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012065907",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "11",
+        "proxy": {
+            "server": "213.166.89.131:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79011123354",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "12",
+        "proxy": {
+            "server": "213.166.90.167:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79967242013",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "13",
+        "proxy": {
+            "server": "213.166.90.101:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79083222364",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "14",
+        "proxy": {
+            "server": "83.171.213.91:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79510326614",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "15",
+        "proxy": {
+            "server": "83.171.214.85:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012069082",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "16",
+        "proxy": {
+            "server": "83.171.215.49:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012907306",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "17",
+        "proxy": {
+            "server": "45.140.75.178:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79967242456",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "18",
+        "proxy": {
+            "server": "45.140.74.100:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012068647",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "19",
+        "proxy": {
+            "server": "83.150.229.58:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012066756",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "20",
+        "proxy": {
+            "server": "83.150.230.153:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79967241711",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "21",
+        "proxy": {
+            "server": "84.54.18.34:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79967240848",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "22",
+        "proxy": {
+            "server": "84.54.16.57:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79967242207",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "23",
+        "proxy": {
+            "server": "86.62.17.168:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79967242453",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "24",
+        "proxy": {
+            "server": "86.62.17.67:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79010985996",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "25",
+        "proxy": {
+            "server": "78.142.236.182:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79534594195",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "26",
+        "proxy": {
+            "server": "45.80.120.240:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79018968970",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "27",
+        "proxy": {
+            "server": "91.212.49.30:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79967241211",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "28",
+        "proxy": {
+            "server": "2.59.177.81:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79012907287",
+        "telegram": {
+            "password": "<password>"
+        }
+    },
+    {
+        "id": "29",
+        "proxy": {
+            "server": "212.81.34.196:30042",
+            "username": "kristina_arteeva_mail_r",
+            "password": "67d97e1fb7"
+        },
+        "phone": "79014567890",
+        "telegram": {
+            "password": "<password>"
+        }
+    }
+]
+
